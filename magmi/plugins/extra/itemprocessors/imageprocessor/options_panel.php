@@ -26,7 +26,7 @@
 					are supported.</li>
 				<li>{item.sku}.jpg : will create an image with item sku value as
 					name and a jpg extension.</li>
-				<li>{item.sku}_{magmi.store}.jpg : this is a little trickier.<br />
+				<li>{item.sku}_{meta.store}.jpg : this is a little trickier.<br />
 					if you've got 5 stores,i will create 5 different copies of the
 					input image &amp; force the name to be [item sku]_[store id].jpg
 					for each copy.
